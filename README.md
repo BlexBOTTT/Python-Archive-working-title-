@@ -1,3 +1,3 @@
 Nothing interesting in this repository
 
-Reason: First time in github in this repository's date-time
+Reason: First time to utilize github and it's functions in this repository's date-time of creation.
